@@ -1,2 +1,4 @@
-# the-data-ownership-delusion
-Materials for a written piece and presentation on the language we use to describe rights over personal data.
+the-data-ownership-delusion
+===========================
+
+This repo contains all materials used for this article on Medium: https://medium.com/@giacecco/the-data-ownership-delusion-4012cc232a2a .
